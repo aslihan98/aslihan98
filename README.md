@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslihan Evcil</h1>
+<img align="right" alt="coding" width="400" src="file:///C:/Users/aslha/OneDrive/Masa%C3%BCst%C3%BC/coding.gif"
 
 - 🔭 I’m currently working on [Dart](https://github.com/aslihan98/Dart)
 
