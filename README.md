@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslihan Evcil</h1>
+<img align="center" alt="Coding" width="400" src="https://dribbble.com/shots/7736965-Work-at-home/attachments/439076?mode=media">
 
 
 - 🔭 I’m currently working on [Dart](https://github.com/aslihan98/Dart)
