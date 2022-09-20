@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aslihan Evcil</h1>
 
 
-- 🔭 I’m currently working on [Dart](https://github.com/aslihan98/Dart)
-
 - 🌱 I’m currently learning **Java, Flutter**
 
 <h3 align="left">Connect with me:</h3>
