@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aslihan Evcil</h1>
+<h1 align="center">Hi 👋, I'm Aslihan</h1>
 
 
 - 🌱 I’m currently learning **Java, Flutter**
