@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aslihan</h1>
 
 
-- 🌱 I’m currently learning **Java, Flutter**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
